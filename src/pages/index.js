@@ -2,7 +2,7 @@ export default function HomePage() {
   return (
     <>
       <h1 className="neonText" style={{ color: "#9f128f" }}>
-        Unlock Unforgettable Moments!{" "}
+        Unlock Unforgettable Moments!
       </h1>
       <h2 className="neonText2" style={{ color: "#e56ef2" }}>
         Join the Celebration at Every Party!

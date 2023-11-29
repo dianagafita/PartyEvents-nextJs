@@ -11,8 +11,10 @@ export default function MainNavigation() {
   return (
     <header className={classes.header}>
       <ul className={classes.list}>
-        <li>
-          <Link href="/">Home</Link>
+        <li style={{ marginRight: "4rem" }}>
+          <Link style={{ color: "#e47df0" }} href="/">
+            Home
+          </Link>
         </li>
         <li>
           <Link href="/events">Events</Link>

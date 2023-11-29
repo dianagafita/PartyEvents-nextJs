@@ -55,10 +55,10 @@ ul {
 }
 .neonText {
   color: #fff;
-  text-shadow: 0 0 7px;
+  text-shadow: 0 0 7px rgb(85, 11, 68);
 }
 
 .neonText2 {
   color: #fff;
-  text-shadow: 0 0 7px #ee60c5;
+  text-shadow: 0 0 1px #ee60c5;
 }

@@ -1,23 +1,32 @@
 .header {
-  max-width: 60rem;
+  max-width: 100%;
   margin: auto;
-  padding: 2rem;
+  padding: 1.5rem;
   display: flex;
+  background-color: #0b0231;
   justify-content: space-between;
 }
 
 .list {
   display: flex;
-  gap: 1rem;
+  gap: 2rem;
 }
 
 .list a {
+  display: flex;
   text-decoration: none;
-  font-size: 1.5rem;
-  color: var(--color-primary-400);
+  font-size: 1.3rem;
+  color: var(--color-primary-200);
 }
 
 .list a:hover,
 .list a.active {
   color: var(--color-primary-800);
+}
+
+.header button {
+  background-color: #f2cff6;
+  border: none;
+  border-radius: 1rem;
+  padding: 0.1rem 0.5rem;
 }
