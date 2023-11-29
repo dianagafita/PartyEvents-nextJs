@@ -1,4 +1,4 @@
-## Party Events
+### Party Events
 This is a [Next.js](https://nextjs.org/) project for Party Events.
 To see a demo of the project: [VIEW DEMO](https://party-events-nextjs.vercel.app/).
 
