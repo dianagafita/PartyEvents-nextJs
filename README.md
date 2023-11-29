@@ -14,4 +14,11 @@ Pages & Routing
 Data Fetching Methods - getServerSideProps, getStaticProps, getStaticPaths
 
 Custom API Routes
+```
+## I worked with:
+
+``` text
+MongoDB Atlas for the backend
+Deploying to Vercel
+```
 
