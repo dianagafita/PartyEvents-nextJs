@@ -1,6 +1,5 @@
 ## Party Events
 This is a [Next.js](https://nextjs.org/) project for Party Events.
-
 To see a demo of the project: [VIEW DEMO](https://party-events-nextjs.vercel.app/).
 
 
@@ -8,7 +7,14 @@ To see a demo of the project: [VIEW DEMO](https://party-events-nextjs.vercel.app
 
 ## What I learned creating this project: 
 ``` text
-fscjvgah
+CSS Styling
+
+Pages & Routing
+
+Data Fetching Methods - getServerSideProps, getStaticProps, getStaticPaths
+
+Custom API Routes
+
 
 To learn more about Next.js, take a look at the following resources:
 
