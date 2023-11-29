@@ -1,0 +1,64 @@
+* {
+  box-sizing: border-box;
+}
+
+:root {
+  font-family: Inter, Avenir, Helvetica, Arial, sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+
+  color-scheme: light dark;
+  color: rgba(255, 255, 255, 0.87);
+  background-color: #230b8e;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-text-size-adjust: 100%;
+
+  --color-gray-100: #9c9ba0;
+  --color-gray-200: #7d7a8d;
+  --color-gray-300: #585278;
+  --color-gray-400: #544b84;
+  --color-gray-500: #473c85;
+  --color-gray-600: #403388;
+  --color-gray-700: #30218a;
+  --color-gray-800: #251487;
+  --color-gray-900: #19048f;
+
+  --color-primary-100: #f3e7f5;
+  --color-primary-200: #f2cff6;
+  --color-primary-300: #f2bef8;
+  --color-primary-400: #eba2f4;
+  --color-primary-500: #e47df0;
+  --color-primary-600: #e56ef2;
+  --color-primary-700: #e24ff2;
+  --color-primary-800: #e127f6;
+  --color-primary-900: #dd10f4;
+}
+
+body {
+  margin: 0;
+}
+
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+.img {
+  width: 40rem;
+  height: 25rem;
+  border-radius: 4px;
+}
+.neonText {
+  color: #fff;
+  text-shadow: 0 0 7px;
+}
+
+.neonText2 {
+  color: #fff;
+  text-shadow: 0 0 7px #ee60c5;
+}
