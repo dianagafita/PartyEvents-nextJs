@@ -1,4 +1,4 @@
-## Getting Started
+## Party Events
 
 This is a [Next.js](https://nextjs.org/) project.
 
