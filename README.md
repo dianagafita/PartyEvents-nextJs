@@ -1,6 +1,6 @@
 ## Party Events
 
-#This is a [Next.js](https://nextjs.org/) project.
+# This is a [Next.js](https://nextjs.org/) project.
 
 To see a demo of the project: [OPEN DEMO](https://party-events-nextjs.vercel.app/).
 
